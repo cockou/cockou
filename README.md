@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cockou
-- 👀 I’m interested in data analysis and process automation.
-- 🌱 I’m currently learning python, sql and tableau
-- 💞️ I’m looking to collaborate on social projects
+- 👀 I’m learning JS and SvelteKit.
+- 🌱 I’m working in creating my first SaaS, a Parcel Tracking app.
+- 💞️ I’m looking to collaborate with mentorship on webapps.
 - 📫 Send me a tweet.
 
 <!---
